@@ -6,5 +6,5 @@
 a.out
 test*
 *.dSYM
-vm_champs
+resources
 ._*
