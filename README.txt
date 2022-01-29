@@ -1,1 +1,1 @@
-This project isnt fully finished, but the foundation is there and with a little more time we would have finished. It goes much deeper than it seems, check my code out.
+This project isnt fully finished, but the foundation is there and with a little more time we would have finished. Check my code out, if you can understand the opcodes you deserve a metal because i wrote them i dont even know whats going on.
